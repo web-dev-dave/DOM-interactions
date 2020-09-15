@@ -17,7 +17,7 @@ body {
   width: 100px;
   height: 100px;
   min-width: 100px;
-  border: 1px #ccc dotted;
+  /* border: 1px #ccc dotted; */
   margin: 10px;
   border-radius: 50%;
   background-color: #eee;
